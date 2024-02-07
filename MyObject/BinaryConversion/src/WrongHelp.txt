@@ -1,0 +1,10 @@
+001:
+    This happens when the output box is not selected
+002:
+    Occurs when the encoding decoding bar is not selected
+003:
+    The conversion mode bar is not selected
+101:
+    Path name incorrect or not
+102:
+    IO occurrence

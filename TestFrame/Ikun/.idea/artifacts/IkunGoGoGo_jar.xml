@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IkunGoGoGo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IkunGoGoGo_jar</output-path>
+    <root id="archive" name="IkunGoGoGo.jar">
+      <element id="module-output" name="IkunGoGoGo" />
+    </root>
+  </artifact>
+</component>

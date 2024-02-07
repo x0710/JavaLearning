@@ -1,0 +1,3 @@
+public enum Operato {
+    ADDITION, SUBTRACTION, MULTIPLIE, DIVISION
+}

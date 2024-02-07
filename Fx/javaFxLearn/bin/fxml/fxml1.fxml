@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.Button?>
+
+<HBox>
+	<Button id='test1' text='START'>
+		
+	</Button>
+	<Button text='STOP' />
+</HBox>

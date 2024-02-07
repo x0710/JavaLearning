@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\15940\\OneDrive\\Desktop\\work\\Java\\library\\mysql-connector-java-8.0.30.jar",
+            "c:\\Users\\15940\\OneDrive\\Desktop\\work\\Java\\library\\commons-csv-1.10.0.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\15940\\OneDrive\\Desktop\\work\\Java\\library\\opencsv-5.7.1.jar"
+        ]
+    }
+}

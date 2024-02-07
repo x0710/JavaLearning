@@ -1,0 +1,3 @@
+public enum Status {
+    INITIAL, PROHIBITION, ALLOWABLE, RESULTS
+}

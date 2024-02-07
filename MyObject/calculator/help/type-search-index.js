@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"main","l":"Calculation"},{"p":"calculation","l":"ReturnClass"},{"p":"main","l":"RunningBackground"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();

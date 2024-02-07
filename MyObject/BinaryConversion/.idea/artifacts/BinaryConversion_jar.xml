@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BinaryConversion:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BinaryConversion_jar</output-path>
+    <root id="archive" name="BinaryConversion.jar">
+      <element id="module-output" name="BinaryConversion" />
+    </root>
+  </artifact>
+</component>
